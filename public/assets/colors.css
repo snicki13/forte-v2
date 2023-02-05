@@ -1,0 +1,12 @@
+:root {
+    --col-sat: 0.7;
+    --cyber-grape: hsla(259, 21%, 39%, var(--col-sat));
+    --dark-electric-blue: hsla(204, 24%, 38%, var(--col-sat));
+    --myrtle-green: hsla(177, 38%, 35%, var(--col-sat));
+    --viridian: hsla(166, 44%, 37%, var(--col-sat));
+    --illuminating-emerald: hsla(158, 49%, 39%, var(--col-sat));
+    --asparagus: hsla(89, 25%, 57%, var(--col-sat));
+    --misty-moss: hsla(53, 37%, 62%, var(--col-sat));
+    --gold-crayola: hsla(37, 82%, 72%, var(--col-sat));
+    --fawn: hsla(30, 58%, 68%, var(--col-sat));
+}
